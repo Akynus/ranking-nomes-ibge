@@ -1,0 +1,17 @@
+{
+  "home": {
+    "app_bar_title": "Ranking de Nomes"
+  },
+  "person_detail": {
+    "app_bar_title": "Detalhes o registro",
+    "field": {
+      "name": "Nome",
+      "frequency": "Quantidade de pessoas",
+      "rank": "Posição no ranking",
+      "sex": "Sexo"
+    }
+  },
+  "card_item_person": {
+    "frequency": "Contagem: {frequency} pessoas"
+  }
+}
